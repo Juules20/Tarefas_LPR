@@ -6,7 +6,7 @@ namespace exercicio03{
 
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
             Console.WriteLine("========================================");
-            Console.WriteLine("Exercicio01_Aula04");
+            Console.WriteLine("Exercicio03_Aula04");
             Console.WriteLine("========================================");
 
             Console.ForegroundColor = ConsoleColor.White;
